@@ -3,6 +3,8 @@
   O presente projeto foi construído usando R para converter os arquivos MENINBRXX.dbc obtidos no Sinan, convertê-los para .parquet e, então, converter para o formato duckdb. Isso possibilita formar um banco DuckDB a ser consultado. Para fins de teste, foram inclusos os anos 2007 - 2025 no bnao de dados.
 
   Estão disponíveis alguns scripts:
+  
+- Baixar packages -> Para baixar os packages necessários para os scripts funcionarem
 - Baixar DBC -> Para baixar os arquivos .dbc 
 - Converter DBC para parquet -> Para baixar os arquivos para o formato parquet (uma alternativa mais eficaz ao formato csv)
 - Banco de dados DuckDb -> Para montar o banco de dados
