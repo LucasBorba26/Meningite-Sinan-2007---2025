@@ -11,6 +11,6 @@
 
 Caso opte por simplesmente baixar os arquivos diretamente, sem utilizar o R, acesse: https://drive.google.com/drive/folders/11CrMAtVXaDeB4O90CyYvt_JR5fi7kSCy?usp=sharing
 
-Também existe um arquivo .xlsx que contém a descrição de todas as variáveis presentes nos bancos de dados utilizados. Essa planilha foi elaborada com base no "DICIONÁRIO DE DADOS – SINAN NET – VERSÃO 5.0 - Agravo: Meningite". 
+Também existe um arquivo .xlsx que contém a descrição de todas as variáveis presentes nos bancos de dados utilizados. Essa planilha em particular foi elaborada com base no "DICIONÁRIO DE DADOS – SINAN NET – VERSÃO 5.0 - Agravo: Meningite". 
 
 Observação: Os anos de 2023 a 2025 entram como arquivos preliminares no FTP do DATASUS, enquanto todos os outros anos entram como arquivos finais. Para entender o que isso significa: https://datasus.saude.gov.br/paineis-de-monitoramento-svs/.
