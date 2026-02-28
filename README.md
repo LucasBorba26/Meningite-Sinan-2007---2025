@@ -5,9 +5,9 @@
   Estão disponíveis alguns scripts:
   
 - Baixar packages -> Para baixar os packages necessários para os scripts funcionarem
-- Baixar DBC -> Para baixar os arquivos .dbc 
-- Converter DBC para parquet -> Para baixar os arquivos para o formato parquet (uma alternativa mais eficaz ao formato csv)
-- Banco de dados DuckDb -> Para montar o banco de dados
+- Baixar DBC -> Para baixar os arquivos os dados epidemiológicos em formato .dbc do site do DATASUS.
+- Converter DBC para parquet -> Para converter os arquivos para o formato parquet. Também corrige eventuais problemas de codificação. 
+- Exportar DuckDb -> Para exportar o que está no DuckDb para uma planilha em formato CSV ou XLSX. Pode exportar todo o banco de dados ou, em próximas versões, exportar parcialmente conforme determinadas variáveis.
 
 Caso opte por simplesmente baixar os arquivos diretamente, sem utilizar o R, acesse: https://drive.google.com/drive/folders/11CrMAtVXaDeB4O90CyYvt_JR5fi7kSCy?usp=sharing
 
