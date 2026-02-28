@@ -7,6 +7,6 @@
 - Converter DBC para parquet -> Para baixar os arquivos para o formato parquet (uma alternativa mais eficaz ao formato csv)
 - Banco de dados DuckDb -> Para montar o banco de dados
 
-Também existe um arquivo .csv que contém a descrição de todas as variáveis presentes nos bancos de dados utilizados. Essa planilha foi elaborada com base no "DICIONÁRIO DE DADOS – SINAN NET – VERSÃO 5.0 - Agravo: Meningite". 
+Também existe um arquivo .xlsx que contém a descrição de todas as variáveis presentes nos bancos de dados utilizados. Essa planilha foi elaborada com base no "DICIONÁRIO DE DADOS – SINAN NET – VERSÃO 5.0 - Agravo: Meningite". 
 
 Observação: Os anos de 2023 a 2025 entram como arquivos preliminares no FTP do DATASUS.
