@@ -9,7 +9,7 @@
 - Converter DBC para parquet -> Para converter os arquivos para o formato parquet. Também corrige eventuais problemas de codificação. 
 - Exportar DuckDb -> Para exportar o que está no DuckDb para uma planilha em formato CSV ou XLSX. Pode exportar todo o banco de dados ou, em próximas versões, exportar parcialmente conforme determinadas variáveis.
 
-No repositório também existem duas planilhas: um arquivo CSV (9. Descrição das variáveis) que contém a descrição de todas as variáveis presentes nos bancos de dados utilizados e outro arquivo XLSX (10. Comparação PDF, XLSX e DUCKDB) que contém algumas comparações entre a planilha fruto da exportação da informação de toda a informação presente no DuckDB. Lembrando que as colunas são baseadas no "DICIONÁRIO DE DADOS – SINAN NET – VERSÃO 5.0 - Agravo: Meningite" e na informação extraída do banco de dados do DATASUS.
+No repositório também existem duas planilhas: um arquivo CSV (9. Descrição das variáveis) que contém a descrição de todas as variáveis presentes nos bancos de dados utilizados e outro arquivo XLSX (10. Comparação PDF, XLSX e DUCKDB) que contém algumas comparações entre a planilha fruto da exportação da informação de toda a informação presente no DuckDB e o próprio arquivo duckDB (sinan_meningite). Lembrando que as colunas são baseadas no "DICIONÁRIO DE DADOS – SINAN NET – VERSÃO 5.0 - Agravo: Meningite" e na informação extraída do banco de dados do DATASUS.
 
 Caso opte por simplesmente baixar os arquivos já prontos, sem utilizar os scripts em R, acesse: https://drive.google.com/drive/u/0/folders/1cShHl_k80Oz1drD83bRjvN0lucfRVF7I.
 
