@@ -6,7 +6,8 @@
   
 - Baixar packages -> Para baixar os packages necessários para os scripts funcionarem.
 - Baixar DBC -> Para baixar os arquivos os dados epidemiológicos sobre a meningite em formato .dbc disponíveis no DATASUS.
-- Converter DBC para parquet -> Para converter os arquivos para o formato parquet. Também corrige eventuais problemas de codificação, como Latin-1, convertendo tudo para UTF-8. 
+- Converter DBC para parquet -> Para converter os arquivos para o formato parquet. Também corrige eventuais problemas de codificação, como Latin-1, convertendo tudo para UTF-8.
+- Montar DuckDB -> Converte os arquivos parquet para um único arquivo DuckDb com os dados coletados do Sinan
 - Exportar DuckDb -> Para exportar o que está no DuckDb para uma planilha em formato CSV ou XLSX. Pode exportar todo o banco de dados ou, em próximas versões, exportar parcialmente conforme determinadas variáveis.
 
 No repositório também existem duas planilhas: um arquivo CSV (9. Descrição das variáveis) que contém a descrição de todas as variáveis presentes nos bancos de dados utilizados e outro arquivo XLSX (10. Comparação PDF, XLSX e DUCKDB) que contém algumas comparações entre a planilha fruto da exportação da informação de toda a informação presente no DuckDB e o próprio arquivo duckDB (sinan_meningite). Lembrando que as colunas são baseadas no "DICIONÁRIO DE DADOS – SINAN NET – VERSÃO 5.0 - Agravo: Meningite" e na informação extraída do banco de dados do DATASUS.
